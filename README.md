@@ -1,10 +1,6 @@
-# Credit-Fraud-Classification
-
-I used kaggle dataset for this project: https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022/data
-
-The models used were Logistic Regression and Support Vector Machines. This project was to compare and contrast the accuracy of these models when classifiying which data was fraud and how I could improve them. 
-
 # Credit Card Fraud Detection
+
+Kaggle dataset: https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022/data
 
 A machine learning project that classifies fraudulent credit card transactions using Logistic Regression and Support Vector Machine (SVM) models.
 
@@ -22,7 +18,7 @@ This project addresses the challenge of detecting fraudulent transactions in imb
 
 ## Technologies Used
 
-- **Python 3.x**
+- **Python**
 - **Pandas & NumPy**: Data manipulation and analysis
 - **Scikit-learn**: Machine learning models and preprocessing
 - **Matplotlib & Seaborn**: Data visualization
