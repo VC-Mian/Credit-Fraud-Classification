@@ -55,14 +55,12 @@ Implemented `class_weight='balanced'` parameter to penalize misclassifying the m
 ```python
 log_reg = LogisticRegression(class_weight='balanced')
 ```
-- Trained on full dataset (800,000 samples)
 - Evaluated feature importance through coefficient analysis
 
 #### Support Vector Machine (SVM)
 ```python
 svm_model = SVC(kernel='linear', C=1.0, class_weight='balanced')
 ```
-- Trained on subset (1,000 samples) due to computational constraints
 - Linear kernel for interpretability
 
 ## Results
